@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi-sattvabit&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-sattvabit" /> </p>
 
 - 👨‍💻 I’m currently working in **Sattvabit**
+- 📫 How to reach me **patelkhushishailesh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
